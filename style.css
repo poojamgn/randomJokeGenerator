@@ -6,7 +6,7 @@
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background: url('./bg.webp');   
+    background: url('./bg.webp') no-repeat;   
     height: 100vh;
     display: flex;
     justify-content: center;
